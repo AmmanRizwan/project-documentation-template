@@ -41,8 +41,6 @@ Contributions are welcome! Feel free to:
 * Propose new features
 * Create pull requests
 
-## License
-
 ## Contact
 
 ## Acknowledgments
