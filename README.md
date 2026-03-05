@@ -27,7 +27,19 @@ _Here is some example framework/libraries showing add your know in your reposito
 
 ## Roadmap
 
-## Contributing (Optional)
+## Using Tips
+
+## Technical Details
+
+## Project Structure
+
+## Contributing
+
+Contributions are welcome! Feel free to:
+
+* Submit bugs reports
+* Propose new features
+* Create pull requests
 
 ## License
 
