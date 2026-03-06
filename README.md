@@ -45,6 +45,17 @@ Contributions are welcome! Feel free to:
 
 Created: Month Day, Year
 
+## Directory Tree
+
+_If you are in linux you can used the command `tree` to get the file structure_
+
+```bash
+.
+└── README.md
+
+0 directories, 1 file
+```
+
 ## Acknowledgments
 
 
