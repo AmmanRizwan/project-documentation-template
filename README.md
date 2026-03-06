@@ -71,9 +71,34 @@ Fire it up with this command:
 
 ## Usage
 
+The "Usage" section explains how to actually use the project now that it's installed. Focus on the most common tasks.
+
+**Basic Command**
+
+To run a standard task, use the following syntax:
+`./run-task --mode basic --input data.csv`
+
+**Common Examples**
+
+* Generate a Report: `python main.py --report weekly`
+* Clear Cache: `python main.py --clean`
+
 ## Roadmap
 
+The "Roadmap" shows users where the project is headed. It builds trust by showing the project is active.
+
+* [ ] Phase 1 (Current): Basic CLI functionality and CSV support.
+* [ ] Phase 2 (Q3 2026): Integration with Google Sheets and Notion API.
+* [ ] Phase 3 (End of Year): Development of a web-based Dashboard (GUI)
+* [ ] Long-term: Mobile App notifications and AI-driven task suggestions.
+
 ## Using Tips
+
+These are "quality of life" pointers that help users feel like power users.
+
+* **Keyboard Shortcuts:** If your project has a UI, list the big ones (e.g., `Ctrl + S` to quick-save).
+* **Automate It:** You can set this script to run every morning at 9:00 AM using a **Cron Job** (Linux/Mac) or **Task Scheduler** Windows.
+* **Batch Processing:** Instead of running the tool 10 times, put all your files in the `/input` folder; the tool with detect and process them all automatically.
 
 ## Technical Details
 
