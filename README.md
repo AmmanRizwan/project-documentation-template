@@ -2,9 +2,22 @@
     <h3 align="center">Project Documentation Template</h3>
 
 <p>The Project Documentation Template is designed to help developers document their projects effectively, making it easier for them to understand the codebase, design, functionality. It includes features such as a <code>README.md</code> file that outlines the purpose of each section of the project, example of a particular tool or library, and best practices for contributing to the repository.</p>
-<div>
+</div>
 
 ## About The Project
+
+<div>
+    <h3 align="center">Title of the Project</h3>
+</div>
+
+### Introduction
+
+[Introduction will be added here]
+
+### Application
+
+[Application will be added here]
+
 
 ### Built With
 
@@ -19,9 +32,15 @@ _Here is some example framework/libraries showing add your know in your reposito
 
 ## Getting Started
 
+[Getting Started will be added here]
+
 ### Prerequisites
 
+[Prerequisites will be added here]
+
 ### Installation
+
+[Installation and setup instructions will be added here]
 
 ## Usage
 
@@ -54,8 +73,7 @@ Contributions are welcome! Feel free to:
 
 Created: Month Day, Year
 
-## Acknowledgments
-
+_Built with ❤️ using modern web technologies_
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
