@@ -34,14 +34,14 @@ _Here is some example framework/libraries showing add your know in your reposito
 
 Follow these steps to get **[Project Name]** up and running on your local machine.
 
-### Prerequisites
+### 1. Prerequisites
 
 Before you begin, make sure you have the following installed:
 
 * **[Tool 1]**: (e.g., Python 3.10+, Node.js or JVM)
 * **[Tool 2]**: (e.g., An API Key from X services, or 4GB of RAM)
 
-### Installation
+### 2. Installation
 
 Step-by-step instructions to prepare the environment:
 
@@ -53,6 +53,21 @@ Step-by-step instructions to prepare the environment:
 
 3. Install dependencies:
     `npm install` or `pip install -r requirements.txt` or `./mvnw package`
+
+### 3. Configuration
+
+If the project requires specific settings, do this now:
+
+* Copy the example environment file: `cp .env.example .env`
+* Open `.env` and add your **[Specific Key/Token]**
+
+### 4. Run the Project
+
+Fire it up with this command:
+
+`npm start` or `python3 main.py` or `./mvnw spring-boot:run` or `./mvnw run`
+
+**Success!** You should now see the project running at `http://localhost:3000` (or describe the expected output here).
 
 ## Usage
 
