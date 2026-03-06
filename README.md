@@ -41,7 +41,9 @@ Contributions are welcome! Feel free to:
 * Propose new features
 * Create pull requests
 
-## Contact
+## Author
+
+Created: Month Day, Year
 
 ## Acknowledgments
 
