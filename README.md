@@ -102,6 +102,30 @@ These are "quality of life" pointers that help users feel like power users.
 
 ## Technical Details
 
+**Architecture Overview**
+
+This project follows a **[Modular / Monolithic / Microservices]** architecure. It is designed to be decoupled, meaning the **[Logic Layer]** is independent of the **[UI/Presentation Layer]**, allowing for easy scaling and testing.
+
+**Tech Stack**
+
+* **Language**: Python / TypeScript / Java / Php
+* **Framework**: FastAPI / React JS / Spring Boot
+* **Database**: PostgreSQL / Redis / MongoDB
+* **Infrastructure**: Docker / AWS Lambda
+
+**API EndPoints**
+
+If your project provides an interface for other apps, define the core structure:
+
+* **[Module Name] Endpoint**:
+    * `GET` - `/api/v1/status`
+    * `POST` - `/api/v1/health`
+
+**Maintenance & Performance**
+
+* **Testing:** We use **[PyTest / Jest / Mockito]** for unit testing. Run them using: `npm test`.
+
+
 ## Project Structure
 
 _If you are in linux you can used the command `tree` to get the file structure_
